@@ -1,2 +1,2 @@
-# rebel
-Casey's Hypermedia Wallet
+# Rebel ☠️
+Casey's Hypermedia Wallet (Coming Soon™️)
